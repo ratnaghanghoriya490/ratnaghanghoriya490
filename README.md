@@ -18,11 +18,15 @@ I enjoy working with data to find useful insights and support better business de
 
 ### 📊 Projects
 
+### 📊 Projects
+
 * [IKEA Retail Customer Retention Analysis](https://github.com/ratnaghanghoriya490/ikea-retail-customer-retention-analysis)
 * [Logistics Delivery Route Analysis](https://github.com/ratnaghanghoriya490/logistics-delivery-route-analysis)
+* [Morgan Stanley Banking Analysis](https://github.com/ratnaghanghoriya490/morgan-stanley-banking-analysis)
+* [Snapdeal Customer Analysis](https://github.com/ratnaghanghoriya490/snapdeal-customer-analysis)
 * [Myntra Social Media Analytics](https://github.com/ratnaghanghoriya490/myntra-social-media-analytics)
 * [Book Price Rating Analysis](https://github.com/ratnaghanghoriya490/book-scraping-powerbi-dashboard)
-  
+
 ### 🎯 Currently
 
 - Building practical Data Analytics projects
