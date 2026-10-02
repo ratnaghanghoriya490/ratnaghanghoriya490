@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ratan 👋
 
-<!--
-**ratnaghanghoriya490/ratnaghanghoriya490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Excel | SQL | Power BI | Python
 
-Here are some ideas to get you started:
+I am a motivated Data Analyst with a background in Agriculture Engineering and experience in data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data to find useful insights and support better business decisions.
+
+### 🛠️ Skills
+
+- Excel
+- SQL / MySQL
+- Power BI
+- Python
+- Data Cleaning
+- Data Analysis
+- DAX
+
+### 📊 Projects
+
+- [IKEA Retail Customer Retention Analysis](https://github.com/ratnaghhoriya490/ikea-retail-customer-retention-analysis)
+- [Logistics Delivery Route Analysis](https://github.com/ratnaghhoriya490/logistics-delivery-route-analysis)
+- [Myntra Social Media Analytics](https://github.com/ratnaghhoriya490/myntra-social-media-analytics)
+- IKEA Sales Analysis
+- Book Price Rating Analysis
+
+### 🎯 Currently
+
+- Building practical Data Analytics projects
+- Improving SQL, Power BI and Python skills
+- Looking for Data Analyst / MIS opportunities
+
+### 📫 Connect with me
+
+- GitHub: https://github.com/ratnaghhoriya490
