@@ -18,10 +18,10 @@ I enjoy working with data to find useful insights and support better business de
 
 ### 📊 Projects
 
--- [IKEA Retail Customer Retention Analysis](https://github.com/ratnaghanghoriya490/ikea-retail-customer-retention-analysis)
-- [Logistics Delivery Route Analysis](https://github.com/ratnaghanghoriya490/logistics-delivery-route-analysis)
-- [Myntra Social Media Analytics](https://github.com/ratnaghanghoriya490/myntra-social-media-analytics)
-- [Book Price Rating Analysis](https://github.com/ratnaghanghoriya490/book-price-rating-analysis)
+* [IKEA Retail Customer Retention Analysis](https://github.com/ratnaghanghoriya490/ikea-retail-customer-retention-analysis)
+* [Logistics Delivery Route Analysis](https://github.com/ratnaghanghoriya490/logistics-delivery-route-analysis)
+* [Myntra Social Media Analytics](https://github.com/ratnaghanghoriya490/myntra-social-media-analytics)
+* [Book Price Rating Analysis](https://github.com/ratnaghanghoriya490/book-scraping-powerbi-dashboard)
   
 ### 🎯 Currently
 
@@ -31,4 +31,4 @@ I enjoy working with data to find useful insights and support better business de
 
 ### 📫 Connect with me
 
-- GitHub: https://github.com/ratnaghhoriya490
+* [GitHub Profile](https://github.com/ratnaghanghoriya490)
